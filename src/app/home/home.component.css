@@ -1,0 +1,19 @@
+.HolaMundo{
+    color: red;
+    border: 16px,dashed,rebeccapurple;
+}
+
+#HolaMundo{
+    color: black;
+    border: 10px, bold, yellow;
+}
+
+.Titulos{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+}
+
+#TituloPrincipal{
+    color: violet;
+    border: 16px,dashed,rebeccapurple;
+}
