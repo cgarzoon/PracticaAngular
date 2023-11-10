@@ -11,3 +11,9 @@
 </p>
 
 <p class="titulos">Carlos Garzon es el hombre mas guapo del mundo</p>
+
+<!-- La variable de [home-locations.components.ts] = "homeComponent.ts"-->
+<app-housing-location
+    *ngFor="let housingLocation of housingLocationList"
+    [housingLocation]="housingLocation">
+</app-housing-location>
